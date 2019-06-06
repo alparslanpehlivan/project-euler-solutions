@@ -1,0 +1,2 @@
+fname=open('dosya2.txt','r')
+fname2=open('dosya3.txt','w')
