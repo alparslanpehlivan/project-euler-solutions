@@ -1,1 +1,1 @@
-# project-euler-solutions
+This directory is related to Project Euler solutions.
