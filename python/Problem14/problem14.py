@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun  6 09:44:55 2019
-
-@author: PEHLIVA
 """
 
 temp=0

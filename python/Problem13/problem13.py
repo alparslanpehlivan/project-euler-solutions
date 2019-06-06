@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Jun  3 11:35:49 2019
-
-@author: PEHLIVA
 """
 
 list_1=[]

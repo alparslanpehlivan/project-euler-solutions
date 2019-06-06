@@ -2,7 +2,6 @@
 """
 Created on Sun Jun  2 15:42:37 2019
 
-@author: PEHLIVA
 """
 
 fname=open('dosya2.txt','r')

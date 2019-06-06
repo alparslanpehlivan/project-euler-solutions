@@ -2,7 +2,6 @@
 """
 Created on Fri May 31 19:32:44 2019
 
-@author: PEHLIVA
 """
 
 k=0
